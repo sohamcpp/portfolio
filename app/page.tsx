@@ -19,7 +19,7 @@ const Home = () => {
         <Hero />
         <Grid />
         <RecentProjects />
-        <Clients />
+        {/* <Clients /> */}
         <Experience />
         <Approach />
         <Footer />
@@ -27,5 +27,5 @@ const Home = () => {
     </main>
   );
 };
-
+ 
 export default Home;
